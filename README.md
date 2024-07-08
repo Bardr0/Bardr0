@@ -94,7 +94,22 @@
 <br>
 <br>
 
-## <b>Connect With Me!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+
+- **Certifications**:
+[![](https://img.shields.io/badge/Writing%20and%20Editing-red?style=for-the-badge)](https://github.com/Bardr0/Bardr0/blob/main/imgs/Coursera%20GKT54WTRKPEY.pdf)
+[![](https://img.shields.io/badge/SQL%20for%20Data%20Science-blue?style=for-the-badge)](https://github.com/Bardr0/Bardr0/blob/main/imgs/Coursera%20XPG3K9X4VV27.pdf)
+[![](https://img.shields.io/badge/SCRUM%20Fundamentals-green?style=for-the-badge)](https://github.com/Bardr0/Bardr0/blob/main/imgs/ScrumFundamentalsCertified-AlejandroBarturen-981277.pdf)
+ 
+ 
+<br>
+<br>
+<br>
+
+-----
+
+<br>
+<br>
+<b>Connect With Me!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
