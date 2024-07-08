@@ -88,7 +88,7 @@
 <ul>
 
 <li>
-<a href="www.linkedin.com/in/alejandro-barturen-060480288" target="_blank">
+<a href="https://linkedin.com/in/alejandro-barturen-060480288" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Alejandro Barturen-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
