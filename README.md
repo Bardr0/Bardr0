@@ -4,7 +4,8 @@
  <a href="https://readme-typing-svg.herokuapp.com"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Alejandro+Nicolas+Barturen+Guzman..;Software+Engineer+Student;Back-end+Newbie;Active+Learner;Excited+to+learn+new+stuffs,;And+work+with+you..<3"></a>
 </p>
 <br>
-<picture><img src = "https://github.com/Bardr0/Bardr0/blob/main/imgs/about_me.gif" width = 50px></picture> About me
+
+## <picture><img src = "https://github.com/Bardr0/Bardr0/blob/main/imgs/about_me.gif" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/Bardr0/Bardr0/blob/main/imgs/e426702edf874b181aced1e2fa5c6cde.gif" width = 250px></picture>
 
@@ -97,7 +98,7 @@
 <br>
 
 
-- **Certifications**:
+## <picture><img src = "https://github.com/Bardr0/Bardr0/blob/main/imgs/giphy.gif" width = 50px></picture> Certification
 
 [![](https://img.shields.io/badge/Writing%20and%20Editing-red?style=for-the-badge)](https://github.com/Bardr0/Bardr0/blob/main/imgs/Coursera%20GKT54WTRKPEY.pdf)
 [![](https://img.shields.io/badge/SQL%20for%20Data%20Science-blue?style=for-the-badge)](https://github.com/Bardr0/Bardr0/blob/main/imgs/Coursera%20XPG3K9X4VV27.pdf)
