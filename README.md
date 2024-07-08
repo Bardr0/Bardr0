@@ -27,3 +27,27 @@
 
 - **Languages**:
 
+  ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+
+- **Front-End Development**:
+
+   ![HTML](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+   ![CSS](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+- **Databases**:
+
+  ![MongoDB](https://img.shields.io/badge/Mongodb%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/Mysql-%2300f.svg?style=flat&llogo=mysql&logoColor=white")
+
+- **Graphic Designing**:
+
+  ![Photoshop](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![Illustrator](https://img.shields.io/badge/Adobe_Illustrator%20-%23E34F26.svg?style=for-the-badge&logo=adobe_&logoColor=white)
+
+- **Softwares and Tools**:
+
+    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+ 
