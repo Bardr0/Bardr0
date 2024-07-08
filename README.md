@@ -9,6 +9,7 @@
 <picture> <img align="right" src=" " width = 250px></picture>
 
 <br>
+
 - 🏫 I'm a third-year university student.
 - 🤓 A passionate Self-taught.  
 - 🧑‍🏫 Currently learning everything about Data Analysis by Self.
@@ -16,6 +17,7 @@
 - 🎮 Playing CS at spare time.
 - 🔥 My principle is to never stop creating new ideas.
 - 👉 Fun fact: The first programming language I tried to learn was C++ ☠️☠️☠️.
+
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -96,6 +98,7 @@
 
 
 - **Certifications**:
+
 [![](https://img.shields.io/badge/Writing%20and%20Editing-red?style=for-the-badge)](https://github.com/Bardr0/Bardr0/blob/main/imgs/Coursera%20GKT54WTRKPEY.pdf)
 [![](https://img.shields.io/badge/SQL%20for%20Data%20Science-blue?style=for-the-badge)](https://github.com/Bardr0/Bardr0/blob/main/imgs/Coursera%20XPG3K9X4VV27.pdf)
 [![](https://img.shields.io/badge/SCRUM%20Fundamentals-green?style=for-the-badge)](https://github.com/Bardr0/Bardr0/blob/main/imgs/ScrumFundamentalsCertified-AlejandroBarturen-981277.pdf)
