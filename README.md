@@ -6,7 +6,7 @@
 <br>
 <picture><img src = "https://github.com/Bardr0/Bardr0/blob/main/imgs/about_me.gif" width = 50px></picture> About me
 
-<picture> <img align="right" src=" " width = 250px></picture>
+<picture> <img align="right" src="https://github.com/Bardr0/Bardr0/blob/main/imgs/e426702edf874b181aced1e2fa5c6cde.gif" width = 250px></picture>
 
 <br>
 
